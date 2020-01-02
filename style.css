@@ -1,0 +1,15 @@
+.can {
+    background-color: red;
+    width: 200px;
+}
+
+.seviye {
+    background-color: yellow;
+    width: 1px;
+}
+
+.cetvel {
+    background-color: black;
+    height: 2px;
+    width: 200px;
+}
