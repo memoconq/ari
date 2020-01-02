@@ -1,15 +1,15 @@
 .can {
     background-color: red;
-    width: 200px;
+    width: 240px;
 }
 
 .seviye {
     background-color: yellow;
-    width: 1px;
+    width: 0px;
 }
 
 .cetvel {
     background-color: black;
     height: 2px;
-    width: 200px;
+    width: 240px;
 }
