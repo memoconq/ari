@@ -30,7 +30,7 @@ function dy() {
     test = beklenen === sonuc;
     if (test) {
         tecrube = tecrube + 24;
-        if (tecrube = 240) {
+        if (tecrube === 240) {
             seviye = seviye + 1;
             tecrube = 0;
             can = 3
